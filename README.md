@@ -18,4 +18,4 @@
   <a> Programacao </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-    <img src="https://github.com/igorcarbonin/Projeto-Shopping/blob/main/Projeto-Shopping/img/desktop%20e%20mobile.png?raw=true"/>
+<img src="https://github.com/igorcarbonin/Marvel-galery/blob/main/img/galeria.PNG?raw=true"/>
