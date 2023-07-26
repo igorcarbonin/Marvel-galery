@@ -18,7 +18,4 @@
   <a> Programacao </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<p>Eu vou apresentar um trailer do jogo Spider-man PS4!</p>
-
-    <iframe width="400" height="250" src=""></iframe>
+    <img src="https://github.com/igorcarbonin/Projeto-Shopping/blob/main/Projeto-Shopping/img/desktop%20e%20mobile.png?raw=true"/>
