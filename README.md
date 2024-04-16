@@ -18,4 +18,7 @@
   <a> Programacao </a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+<p>Confira o <a href="https://igorcarbonin.github.io/Marvel-galery/"> site.</a></p>
+<br>
 <img src="https://github.com/igorcarbonin/Marvel-galery/blob/main/img/galeria.PNG?raw=true"/>
